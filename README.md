@@ -1,6 +1,6 @@
 # Unity - iOS (OF) via OSC
 
-This is an example project demonstrating bi-directional communication between a Unity application to a iOS application (built with openFrameworks) using the OSC (Open Sound Control) network protocol.
+This is an example project demonstrating bi-directional communication between a Unity application to a iOS application (built with openFrameworks) using the [OSC](http://opensoundcontrol.org) (Open Sound Control) network protocol.
 
 
 The project enables the user to manipulate the position of two game objects (Sphere in Unity (green), Circle in openFrameworks (red)). The updated position of the game object in Unity is sent via OSC to the iOS openFrameworks application and vice versa.
@@ -20,6 +20,7 @@ This example has been built using the following specifications:
 * Unity 5.3.1f1 Personal
 * [UnityOSC](https://github.com/jorgegarcia/UnityOSC) v.1.2 by Jorge Garcia
 * [VVVUnityOSC](https://github.com/frankiezafe/VVVVUnityOSC) by frankiezafe
+* [OSC (Open Sound Control)](http://opensoundcontrol.org)
 
 
 *Note:* Generally, the openFrameworks and Unity source code should work also within their Windows counterparts. Please check out the above stated dependencies for troubleshooting.
