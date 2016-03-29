@@ -56,7 +56,7 @@ This example has been built using the following specifications:
 
 ![Unity application](docs/unity_screenshot.png)
 
-![iOS application](docs/ios_screenshot.PNG =300x)
+![iOS application](docs/ios_screenshot.png)
 
 
 ## License
