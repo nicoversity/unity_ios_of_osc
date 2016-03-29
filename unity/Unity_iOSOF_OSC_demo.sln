@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{97677C04-161D-76A6-39CF-457C514B370B}") = "Unity_iOSOF_OSC_demo", "Assembly-CSharp.csproj", "{5278ACEC-F203-AB71-5AE3-232F471E47C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5278ACEC-F203-AB71-5AE3-232F471E47C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5278ACEC-F203-AB71-5AE3-232F471E47C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5278ACEC-F203-AB71-5AE3-232F471E47C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5278ACEC-F203-AB71-5AE3-232F471E47C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
