@@ -1,4 +1,4 @@
-# Unity - iOS (OF) via OSC
+# Unity - iOS (openFrameworks) via OSC
 
 This is an example project demonstrating bi-directional communication between a Unity application to a iOS application (built with openFrameworks) using the [OSC](http://opensoundcontrol.org) (Open Sound Control) network protocol.
 
@@ -56,8 +56,8 @@ This example has been built using the following specifications:
 
 ![Unity application](docs/unity_screenshot.png)
 
-![iOS application](docs/ios_screenshot.PNG)
+![iOS application](docs/ios_screenshot.PNG =300x)
 
 
 ## License
-MIT License, see [LICENSE.md](docs/LICENSE.md)
+MIT License, see [LICENSE.md](LICENSE.md)
